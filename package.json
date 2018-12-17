@@ -1,5 +1,5 @@
 {
-  "name": "imap",
+  "name": "imap-socks5",
   "version": "0.8.19",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "An IMAP module for node.js that makes communicating with IMAP servers easy",
@@ -30,6 +30,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mscdex/node-imap.git"
+    "url": "https://github.com/Sheaxer/node-imap"
   }
 }
